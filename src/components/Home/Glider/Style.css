@@ -1,0 +1,35 @@
+.companies{
+    margin-top: 5rem;
+    padding: 2.5rem;
+}
+
+.company-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.glider-contain div {
+    display: flex;
+}
+
+.glider,.glider2 {
+    background-color: rgb(224,224,224);
+    border-radius: 20px;
+}
+
+.glider div {
+    display: flex;
+    align-items: center;
+    border-radius: 17px;
+    padding: .5rem;
+}
+.glider a img {
+    max-width: 250px;
+    padding: 1rem;
+    margin: 0 .5rem;
+}
+
+button.glider-next, button.glider-prev {
+    position: static;
+    padding: 1rem;
+}

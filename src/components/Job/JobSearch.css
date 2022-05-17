@@ -1,0 +1,40 @@
+.JobSearch-box {
+  background: #f2f2f2;
+  border-radius: 4px;
+  padding: 1em 1em;
+  width: 70vw;
+  margin-top: 2%;
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 2rem;
+ 
+}
+
+.JobSearch-button {
+  font-size: 1em;
+  padding: 5px 20px;
+  background-color: blue;
+  color: white;
+ 
+}
+
+.JobSearch-function {
+  display: block;
+}
+
+.JobSearch-box-col {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.JobSearch-text-right {
+  text-align: right;
+}
+
+.JobSearch-box-80 {
+  width: 79%;
+}
+
+.JobSearch-box-20 {
+  width: 20%;
+}

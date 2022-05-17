@@ -1,0 +1,57 @@
+
+input,
+select,
+button,
+.input {
+    border: 1px solid #2f2f2f;
+    color: #272727;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0.5rem;
+    margin: 5px;
+    width:16px;
+}
+
+input[type='submit']:hover {
+    background-color: #d9d9d9;
+}
+
+.input-md{
+    width: 120px;
+}
+
+
+.courseHeading{
+    margin-left: 2px;
+    margin-top: 20px;
+}
+.leftSide{
+   
+    margin:1.4rem;
+}
+.courseName{
+    text-decoration: none;
+}
+
+.courseName p:hover{
+    color:blue;
+}
+
+.courseName p{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(237, 235, 235);
+    padding: 5px;
+    color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+

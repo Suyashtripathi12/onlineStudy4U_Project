@@ -1,0 +1,26 @@
+.about-page {
+    margin: 2.5rem 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue !important;
+}
+
+.about-landing h1 {
+    color: #102f51;
+}
+
+.about-landing img {
+    max-width: 10.5rem;
+}
+
+.about-para {
+    line-height: 1.8;
+    font-size: 18px;
+}
+
+.about-hr {
+    width: 80%;
+    text-align: center;
+    border-bottom: 2.5px solid rgb(211, 202, 202);
+}

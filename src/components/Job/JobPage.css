@@ -1,0 +1,19 @@
+
+.JobPage-heading {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.JobPage-heading p{
+    width: 100%;
+    align-self: center;
+    justify-content: center;
+}
+
+.JobPage{
+    display: flex;
+    width: 100%;
+    align-self: center;
+    justify-content: center;
+}
