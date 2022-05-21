@@ -1,0 +1,81 @@
+.JobDetails-block {
+    display: flex;
+    height: 20vh;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0.5rem;
+    background-color: rgb(194, 193, 193);
+    border: 2px solid rgb(102, 101, 101);
+    padding: 20px;
+    border-bottom-right-radius: 50px;
+}
+
+.JobDetails-img {
+    align-items: flex-start;
+    width: 60px;
+    height: 60px;
+    margin: 2rem;
+}
+
+.JobDetails-descr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.JobDetails-title {}
+
+.JobDetails-company {}
+
+.JobDetails-btn {
+   
+    color:blanchedalmond;
+    background-color: blue;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    border: 2px solid rgb(102, 101, 101);
+    border-radius: 10px;
+}
+
+.JobDetails-btn:hover{
+    background-color: white;
+    color:blue;
+}
+
+.JobDetails-descBlock{
+    align-items: flex-start;
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+}
+
+.JobDetails-descHeading{
+    font-weight: 600;
+}
+
+.JobDetails-topic{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+
+.JobDetails-topicList{
+    padding:5px 20px 5px 20px;
+    background-color: rgb(119, 120, 119);
+    margin-right: 20px;
+    border: 2px solid rgb(102, 101, 101);
+   font-size: 18px;
+    border-radius: 10px;
+}
+
+.JobDetails-topicList:hover{
+    background-color: rgb(2, 2, 2);
+    color: white;
+    cursor: pointer;
+}
+
+.JobDetails-exp{
+    text-align: left;
+}

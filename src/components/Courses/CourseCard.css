@@ -1,11 +1,18 @@
 
 .my-card {
   width: 320px;
-  box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+ 
   position: relative;
   border-radius: 20px;
   margin: 20px;
+  transition: all 0.2s ease;
+}
 
+.my-card:hover{
+  
+  box-shadow: 4px 8px 12px 0 rgba(0,0,0,0.3);
+  cursor: pointer;
+  transform: translatey(-4px);
 }
 
 .img-place {
@@ -32,7 +39,6 @@
   color: #ffffff;
   font-size: 20px;
 }
-
 
 .my-btn:hover {
   background-color: #666699;
